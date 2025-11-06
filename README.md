@@ -34,7 +34,7 @@
   </a>
 </p>
 
-<h4 align="center">Front-End</h4>
+<h4 align="center">Web development/Front-End</h4>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
