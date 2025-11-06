@@ -19,7 +19,7 @@
 </p>
 -->
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <h4 align="center">Object Oriented Programming</h4>
 <p align="center">
