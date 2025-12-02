@@ -2,7 +2,7 @@
 
 ### Student at Linköping University (Bachelors degree in Innovative Programming)
 
-- 🌱 I'm currently learning **about System Administration, Compilers, Interpreters and Rust**
+- 🌱 I'm currently learning **about System Administration, Data-security and Rust**
 
 - 👯 I'm looking to collaborate on **open source project I use or find useful :)**
 
