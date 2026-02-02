@@ -19,8 +19,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h4 align="center">Object Oriented Programming</h4>
-<p align="center">
+<h4 align="left">Object Oriented Programming</h4>
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
   </a>
@@ -35,8 +35,8 @@
   </a>
 </p>
 
-<h4 align="center">Web development/Front-End</h4>
-<p align="center">
+<h4 align="left">Web development/Front-End</h4>
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
   </a>
@@ -51,8 +51,8 @@
   </a>
 </p>
 
-<h4 align="center">Android Development</h4>
-<p align="center">
+<h4 align="left">Android Development</h4>
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/>
   </a>
@@ -64,8 +64,8 @@
   </a>
 </p>
 
-<h4 align="center">Database Management</h4>
-<p align="center">
+<h4 align="left">Database Management</h4>
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
   </a>
@@ -77,8 +77,8 @@
   </a>
 </p>
 
-<h4 align="center">Animation and Photo Editing</h4>
-<p align="center">
+<h4 align="left">Animation and Photo Editing</h4>
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/>
   </a>
@@ -87,8 +87,8 @@
   </a>
 </p>
 
-<h4 align="center">Imperative Programming</h4>
-<p align="center">
+<h4 align="left">Imperative Programming</h4>
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/ruby" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=ruby" alt="ruby" width="40" height="40"/>
   </a>
@@ -97,7 +97,7 @@
   </a>
 </p>
 
-<h4 align="center">Extras</h4>
+<h4 align="left">Extras</h4>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
