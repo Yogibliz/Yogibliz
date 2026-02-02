@@ -98,7 +98,7 @@
 </p>
 
 <h4 align="left">Extras</h4>
-<p align="center">
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
   </a>
