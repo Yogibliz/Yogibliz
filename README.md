@@ -1,8 +1,6 @@
 # Hiya :3,
 
-### Student at Linköping University (Bachelors degree in Innovative Programming)
-
-- 🌱 I'm currently learning **about System Administration, Data-security and Rust**
+### Student at Linköping University (Bachelors degree in Innovative Programming -> Working towards a Cybersecurity Masters)
 
 - 👯 I'm looking to collaborate on **open source project I use or find useful :)**
 
